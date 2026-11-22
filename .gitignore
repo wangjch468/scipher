@@ -1,0 +1,18 @@
+# 历史归档（不公开）
+old/
+
+# 运行时缓存
+jm.tmp
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+
+# 解密落盘的文件
+*_下载*.txt
+*_下载*
+
+# 编辑器/系统
+.DS_Store
+Thumbs.db
